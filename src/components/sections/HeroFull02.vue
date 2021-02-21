@@ -17,7 +17,7 @@
                 <div class="hero-content">
                     <div class="container-xs">
                         <h1 class="m-0 reveal-from-top">
-                            Engage Your Visitors with a beautiful template
+                            We deliver a telco core network that is highly available, multi-regional, and secure.
                         </h1>
                     </div>
                 </div>

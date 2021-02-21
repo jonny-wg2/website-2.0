@@ -125,7 +125,7 @@ export default {
   data() {
     return {
       sectionHeader: {
-        title: 'Testimonials -Lorem ipsum is placeholder text commonly used.',
+        title: 'Testimonials from our customers',
         paragraph: ''
       }
     }

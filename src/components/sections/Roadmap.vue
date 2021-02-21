@@ -54,9 +54,9 @@ export default {
   data() {
     return {
       sectionHeader: {
-        title: 'Product roadmap',
+        title: 'Our story',
         paragraph:
-          'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
+          'Learn how we are paving the path to build a new telco core network for you.'
       }
     }
   }  
