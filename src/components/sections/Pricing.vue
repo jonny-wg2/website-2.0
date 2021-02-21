@@ -84,11 +84,11 @@
                                         <li class="is-checked">Connectivity (Global Roaming)</li>
                                         <li class="is-checked">Telco-grade APIs</li>
                                         <li class="is-checked">Multi Regional</li>
-                                        <li class="is-checked">24/7 Level 3 Oncall & Support</li>
                                         <li class="is-checked">Exposed system metrics</li>
                                         <li class="is-checked">Compliance grade security</li>
                                         <li class="is-checked">GDPR Certified</li>
-                                        <li class="is-checked">99.99999 Uptime *</li>
+                                        <li class="is-checked">24/7 Level 3 Oncall & Support</li>
+                                        <li class="is-checked">99.999 Uptime with SLAs *</li>
                                     </ul>
                                 </div>
                                
